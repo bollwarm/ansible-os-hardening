@@ -54,7 +54,7 @@ platforms:
 verifier:
   name: inspec
 suites:
-- name: ansible_1.9
+- name: os-ansible_1.9
   provisioner:
     ansible_version: 1.9.4
-- name: ansible_latest
+- name: os-ansible_latest
